@@ -1,0 +1,11 @@
+npm init
+
+npm i express
+
+npm i -g nodemon
+    (arrancar con nodemon index)
+
+npm i dotenv 
+    asignar puerto dinamicamente
+
+npm i dotenv
